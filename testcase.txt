@@ -1,0 +1,7 @@
+1. Created a new directory using `mkdir new_folder`.
+2. Listed files and directories using `ls`.
+3. Created a new text file (`sample.txt`) in `new_folder` using `echo`.
+4. Read the content of the file using `cat`.
+5. Renamed the file to `renamed_sample.txt` using `mv`.
+6. Listed the contents of `new_folder` using `ls`.
+7. Deleted the directory and its contents using `rm -r`.
